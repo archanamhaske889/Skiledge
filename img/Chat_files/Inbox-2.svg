@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Sendinblue/Inbox</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Sendinblue/Inbox" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Inbox">
+            <g id="Keylines" opacity="0" stroke="#979797" stroke-width="0.125">
+                <g id="Group">
+                    <path d="M0,48 L48,0 L0,48 Z" id="NESW"></path>
+                    <path d="M0,0 L48,48" id="NWSE"></path>
+                    <path d="M0,31.25 L48,31.25" id="Southern-Tropic" stroke-linecap="square"></path>
+                    <path d="M0,17.25 L48,17.25" id="Northern-Tropic" stroke-linecap="square"></path>
+                    <path d="M0,23.25 L48,23.25" id="Equator" stroke-linecap="square"></path>
+                    <path d="M31,48 L31,0" id="Western-Tropic"></path>
+                    <path d="M17,48 L17,0" id="Eastern-Tropic"></path>
+                    <path d="M24,48 L24,0" id="Mean"></path>
+                    <path d="M34,24 C34,18.47725 29.52275,14 24,14 C18.47725,14 14,18.47725 14,24 C14,29.52275 18.47725,34 24,34 C29.52275,34 34,29.52275 34,24 L34,24 Z" id="Core"></path>
+                    <path d="M24,46 C11.84975,46 2,36.15025 2,24 C2,11.84975 11.84975,2 24,2 C36.15025,2 46,11.84975 46,24 C46,36.15025 36.15025,46 24,46" id="Circle"></path>
+                    <path d="M40,43 L8,43 C6.35,43 5,41.65 5,40 L5,8 C5,6.35 6.35,5 8,5 L40,5 C41.65,5 43,6.35 43,8 L43,40 C43,41.65 41.65,43 40,43" id="Square"></path>
+                    <path d="M37,46 L11,46 C9.35,46 8,44.65 8,43 L8,5 C8,3.35 9.35,2 11,2 L37,2 C38.65,2 40,3.35 40,5 L40,43 C40,44.65 38.65,46 37,46" id="Vertical-Rectangle"></path>
+                    <path d="M43,40 L5,40 C3.35,40 2,38.65 2,37 L2,11 C2,9.35 3.35,8 5,8 L43,8 C44.65,8 46,9.35 46,11 L46,37 C46,38.65 44.65,40 43,40" id="Horizontal-Rectangle"></path>
+                </g>
+            </g>
+            <g transform="translate(5.000000, 5.000000)" fill-rule="nonzero" id="Path">
+                <polygon fill="#FFD9D4" points="4 23 38 4 33 37 23 32 16 38 16 30 33 10 13 26.994"></polygon>
+                <polygon fill="#044A75" points="3.55271368e-15 19 34 3.55271368e-15 29 33 19 28 12 34 12 26 29 6 9 22.994"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
